@@ -11,6 +11,6 @@ Open the '.scpt' file with the Apple Script Editor and modify the calendar event
 
 ## Execution  
 Execute the script via command 'osascript'  
-```osascript osascript /PATH/TO/YOUR/Script.scpt```  
+```osascript osascript /PATH/TO/YOUR/script-name.scpt```  
 <br />
 <br />
